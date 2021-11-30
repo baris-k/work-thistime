@@ -1,0 +1,20 @@
+{
+  "name": "work-thistime",
+  "version": "1.0.0",
+  "description": "##Desciption",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baris-k/work-thistime.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baris-k/work-thistime/issues"
+  },
+  "homepage": "https://github.com/baris-k/work-thistime#readme"
+}
