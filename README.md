@@ -1,4 +1,4 @@
-# work-thistime# WORK-thistime
+# WORK-thistime
 
 
 # LICENSE
